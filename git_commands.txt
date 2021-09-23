@@ -1,0 +1,6 @@
+1. To create local repo- [ git init ]
+2. Add remote repo to local- [ git add origin "link" ]
+3. Pull the files from remote- [ git pull origin main ] (previously- git pill origin master)
+4.[ git status ]- to get the status of local git repo
+5. commit- [ git commit -m "type commit messgage" ]
+6. to commit files after editing - [ git add ] or [ git add -A ] - if there is multiple files to commit
