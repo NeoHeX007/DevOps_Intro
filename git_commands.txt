@@ -4,9 +4,3 @@
 4.[ git status ]- to get the status of local git repo
 5. commit- [ git commit -m "type commit messgage" ]
 6. to commit files after editing - [ git add ] or [ git add -A ] - if there is multiple files to commit
-
-
-
-
-
-
