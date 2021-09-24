@@ -10,3 +10,4 @@ branch creation in Git -
 To merge the firstbranch with master--
 1. checkout to master- [ git checkout master ]
 2. merge - [ git merge firstbranch ]
+------------------------------------------------------------------------------
