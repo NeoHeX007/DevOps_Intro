@@ -5,3 +5,8 @@ branch creation in Git -
 4. Then save it and open git bash.
 5. then [ git add newfile ]
 6. [ git commit -m "making changes in firstbranch" ]
+
+------------------------------------------------------------------------------
+To merge the firstbranch with master--
+1. checkout to master- [ git checkout master ]
+2. merge - [ git merge firstbranch ]
