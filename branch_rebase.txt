@@ -1,1 +1,14 @@
 Rebasing branches---------
+
+#HeX@NEO MINGW64 /f/DevOps (firstbranch)
+$ git rebase master
+Current branch firstbranch is up to date.
+
+#HeX@NEO MINGW64 /f/DevOps (firstbranch)
+$ git checkout master
+Switched to branch 'master'
+
+#HeX@NEO MINGW64 /f/DevOps (master)
+$ git rebase firstbranch
+First, rewinding head to replay your work on top of it...
+Fast-forwarded master to firstbranch.
