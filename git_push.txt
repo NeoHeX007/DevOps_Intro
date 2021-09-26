@@ -1,0 +1,5 @@
+git Push- can be pushed a branch directly or first commit with master then push 
+
+[ git push origin firstbranch ]- directly push code to remote
+[ git push origin master ]-  directly push code toremote
+
